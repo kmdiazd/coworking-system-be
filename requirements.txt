@@ -9,3 +9,12 @@ pydantic-settings
 alembic
 passlib[bcrypt]
 python-jose[cryptography]
+asyncpg
+psycopg2-binary
+greenlet
+
+
+
+
+
+
